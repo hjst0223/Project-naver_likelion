@@ -130,7 +130,7 @@ def scrape_content(url):
     return content
 ```
 
-### 3-4. Naver Cloud Platform의 Papago Translation API 수집한 뉴스를 번역하고 저장
+### 3-4. Naver Cloud Platform의 Papago Translation API로 수집한 뉴스를 번역하고 저장
 ```
 def translate(my_content, client_id, client_secret):
     """
