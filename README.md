@@ -228,7 +228,7 @@ def save_navernews(keywords):
 ### Backend
 * Naver Cloud Platform에서 서버 생성 후 이용
 * Naver의 뉴스 검색 API로 뉴스 수집
-* Naver Cloud Platform의 Papago Translation API로 뉴스 수집
+* Naver Cloud Platform의 Papago Translation API로 수집한 뉴스 번역
 * Web Scraping
 
 ### Frontend
